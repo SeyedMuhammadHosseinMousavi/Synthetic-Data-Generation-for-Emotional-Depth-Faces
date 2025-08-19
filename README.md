@@ -15,7 +15,7 @@ Affective computing faces a significant challenge: the scarcity of high-quality,
   eprint       = {2508.09188},
   archivePrefix = {arXiv},
   primaryClass = {cs.CV},
-  url          = {https://arxiv.org/abs/2508.09188}
+  url          = {[https://arxiv.org/abs/2508.09188](https://arxiv.org/abs/2508.09188)}
 }
 
 
